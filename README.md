@@ -1,8 +1,8 @@
 # Milton Klun
 
-![Python Developer](https://img.shields.io/badge/Python%20Developer-306998?style=for-the-badge&logo=python&logoColor=white)
-![Data Analyst](https://img.shields.io/badge/Data%20Analyst-00BFFF?style=for-the-badge&logo=data-analytics&logoColor=white)
-![QA Automation Tester](https://img.shields.io/badge/QA%20Automation%20Tester-FF4500?style=for-the-badge&logo=robot&logoColor=white)
+![Python Developer](https://img.shields.io/badge/Python%20Developer-F44336?style=for-the-badge&logo=python&logoColor=white)  <!-- Red -->
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-4CAF50?style=for-the-badge&logo=data-analytics&logoColor=white)  <!-- Green -->
+![QA Automation Tester](https://img.shields.io/badge/QA%20Automation%20Tester-2196F3?style=for-the-badge&logo=robot&logoColor=white)  <!-- Blue -->
 
 ---
 
