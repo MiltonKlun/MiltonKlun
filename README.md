@@ -1,6 +1,8 @@
 # Milton Klun
 
-**Python Developer** | **Data Analyst** | **QA Automation Tester**
+![Python Developer](https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-4B8BBE?style=for-the-badge&logo=data-analytics&logoColor=white)
+![QA Automation Tester](https://img.shields.io/badge/QA%20Automation%20Tester-0081C8?style=for-the-badge&logo=robot&logoColor=white)
 
 ---
 
