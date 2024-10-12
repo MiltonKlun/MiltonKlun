@@ -22,7 +22,6 @@ My journey in the tech world began with a fascination for building automations t
 ![Playwright](https://img.shields.io/badge/Playwright-2C2C32?style=for-the-badge&logo=playwright&logoColor=green)
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 - **Cloud Platforms**: 
