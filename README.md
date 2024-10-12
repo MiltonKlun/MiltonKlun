@@ -56,17 +56,8 @@ My journey in the tech world began with a fascination for building automations t
 ### My Focus
 
 - **Backend Development**: Designing, implementing, and optimizing backend logic to power high-performance applications.
-- **QA Automation**: Building comprehensive automation scripts that cover a wide range of testing scenarios to ensure code reliability and quality.
 - **Data Analysis**: Extracting insights from data using tools like pandas, matplotlib, and numpy to drive decision-making and optimize processes.
-- **Cloud Solutions**: Creating and managing applications in cloud environments, optimizing for scalability and uptime.
-
----
-
-### Recent Projects
-
 - **Automation Bots**: Developed bots that handle user and web interaction, while handling robust API and cloud integration.
-- **WhatsApp Business Integration**: Integrated WhatsApp Business API with chatbots to provide seamless user interaction, hosted on AWS EC2.
-- **Data Analytics Dashboards**: Built interactive dashboards on Tableau using pandas, matplotlib, and Jupyter to analyze business performance and drive actionable insights.
 - **QA Automation Scholarship**: Currently studying QA Automation testing as part of a scholarship awarded by Globant, further enhancing my skills in testing frameworks and practices.
 
 ---
