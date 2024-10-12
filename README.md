@@ -73,7 +73,7 @@ My journey in the tech world began with a fascination for building automations t
 
 ### Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miltonklun/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/milton-klun/)
 [![GitHub](https://img.shields.io/badge/GitHub-MiltonKlun-181717?style=for-the-badge&logo=github)](https://github.com/MiltonKlun)
 
 
