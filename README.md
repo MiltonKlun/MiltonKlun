@@ -34,8 +34,8 @@ My journey in the tech world began with a fascination for building automations t
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  <!-- Dark color -->
 
 - **Databases**: 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white)  <!-- Red -->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF0000?style=for-the-badge&logo=postgresql&logoColor=white)  <!-- Red -->
 
 - **Testing Expertise**: 
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-61DAFB?style=for-the-badge&logo=testing-library&logoColor=white) 
