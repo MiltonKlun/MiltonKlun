@@ -27,11 +27,11 @@ My journey in the tech world began with a fascination for building automations t
 ![Docker](https://img.shields.io/badge/Docker-43B02A?style=for-the-badge&logo=docker&logoColor=white)  <!-- Green -->
 
 - **Cloud Platforms**: 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-F44336?style=for-the-badge&logo=amazon-aws&logoColor=white)  <!-- Red -->
 
 - **Version Control**: 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white)  <!-- Dark color -->
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  <!-- Dark color -->
 
 - **Databases**: 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
