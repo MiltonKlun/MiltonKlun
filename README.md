@@ -38,10 +38,10 @@ My journey in the tech world began with a fascination for building automations t
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF4C4C?style=for-the-badge&logo=postgresql&logoColor=white)  <!-- Balanced Red -->
 
 - **Testing Expertise**: 
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-61DAFB?style=for-the-badge&logo=testing-library&logoColor=white) 
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-61DAFB?style=for-the-badge&logo=testing-library&logoColor=white) 
-![UI Testing](https://img.shields.io/badge/UI_Testing-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
-![API Testing](https://img.shields.io/badge/API_Testing-61DAFB?style=for-the-badge&logo=spring&logoColor=white) 
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-50C878?style=for-the-badge&logo=testing-library&logoColor=white)  <!-- Emerald Green -->
+![Integration Testing](https://img.shields.io/badge/Integration_Testing-50C878?style=for-the-badge&logo=testing-library&logoColor=white)  <!-- Emerald Green -->
+![UI Testing](https://img.shields.io/badge/UI_Testing-50C878?style=for-the-badge&logo=react&logoColor=white)  <!-- Emerald Green -->
+![API Testing](https://img.shields.io/badge/API_Testing-50C878?style=for-the-badge&logo=spring&logoColor=white)  <!-- Emerald Green -->
 
 - **Data Analysis**: 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
