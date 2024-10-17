@@ -38,10 +38,10 @@ My journey in the tech world began with a fascination for building automations t
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - **Testing Expertise**: 
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-0769AD?style=for-the-badge&logo=testing-library&logoColor=white)
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-E34F26?style=for-the-badge&logo=testing-library&logoColor=white)
-![UI Testing](https://img.shields.io/badge/UI_Testing-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![API Testing](https://img.shields.io/badge/API_Testing-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-61DAFB?style=for-the-badge&logo=testing-library&logoColor=white) 
+![Integration Testing](https://img.shields.io/badge/Integration_Testing-61DAFB?style=for-the-badge&logo=testing-library&logoColor=white) 
+![UI Testing](https://img.shields.io/badge/UI_Testing-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
+![API Testing](https://img.shields.io/badge/API_Testing-61DAFB?style=for-the-badge&logo=spring&logoColor=white) 
 
 - **Data Analysis**: 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
