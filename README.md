@@ -44,12 +44,11 @@ My journey in the tech world began with a fascination for building automations t
 ![API Testing](https://img.shields.io/badge/API_Testing-50C878?style=for-the-badge&logo=spring&logoColor=white)  <!-- Emerald Green -->
 
 - **Data Analysis**: 
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  <!-- Pandas Color -->
+![matplotlib](https://img.shields.io/badge/matplotlib-150458?style=for-the-badge&logo=python&logoColor=white)  <!-- Pandas Color -->
+![numpy](https://img.shields.io/badge/numpy-150458?style=for-the-badge&logo=numpy&logoColor=white)  <!-- Pandas Color -->
+![Jupyter](https://img.shields.io/badge/Jupyter-150458?style=for-the-badge&logo=jupyter&logoColor=white)  <!-- Pandas Color -->
+![Tableau](https://img.shields.io/badge/Tableau-150458?style=for-the-badge&logo=tableau&logoColor=white)  <!-- Pandas Color -->
 
 ---
 
