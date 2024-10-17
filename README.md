@@ -20,11 +20,11 @@ My journey in the tech world began with a fascination for building automations t
 ![JavaScript](https://img.shields.io/badge/JavaScript-2196F3?style=for-the-badge&logo=javascript&logoColor=white)  <!-- Blue -->
 
 - **Frameworks & Tools**: 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2C2C32?style=for-the-badge&logo=playwright&logoColor=green)
-![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  <!-- Green -->
+![Playwright](https://img.shields.io/badge/Playwright-43B02A?style=for-the-badge&logo=playwright&logoColor=white)  <!-- Green -->
+![PyTest](https://img.shields.io/badge/PyTest-43B02A?style=for-the-badge&logo=pytest&logoColor=white)  <!-- Green -->
+![JUnit](https://img.shields.io/badge/JUnit-43B02A?style=for-the-badge&logo=junit5&logoColor=white)  <!-- Green -->
+![Docker](https://img.shields.io/badge/Docker-43B02A?style=for-the-badge&logo=docker&logoColor=white)  <!-- Green -->
 
 - **Cloud Platforms**: 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
