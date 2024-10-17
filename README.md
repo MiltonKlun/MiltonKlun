@@ -15,9 +15,9 @@ My journey in the tech world began with a fascination for building automations t
 ### Tech Stack
 
 - **Languages**: 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-2196F3?style=for-the-badge&logo=python&logoColor=white)  <!-- Blue -->
+![Java](https://img.shields.io/badge/Java-2196F3?style=for-the-badge&logo=java&logoColor=white)  <!-- Blue -->
+![JavaScript](https://img.shields.io/badge/JavaScript-2196F3?style=for-the-badge&logo=javascript&logoColor=white)  <!-- Blue -->
 
 - **Frameworks & Tools**: 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
