@@ -67,3 +67,5 @@ My journey in the tech world began with a fascination for building automations t
 [![GitHub](https://img.shields.io/badge/GitHub-MiltonKlun-181717?style=for-the-badge&logo=github)](https://github.com/MiltonKlun)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
