@@ -64,10 +64,10 @@ Currently working as a freelance developer, creating user-friendly chatbots that
 
 ### My Focus
 
-- **Backend Development**: Designing, implementing, and optimizing backend logic to power high-performance applications.
+- **Backend Development**: Designing, implementing, and optimizing backend logic to power high-performance applications through Python.
 - **Data Analysis**: Extracting insights from data using tools like pandas, matplotlib, and numpy to drive decision-making and optimize processes.
-- **Automation Bots**: Developed bots that handle user and web interaction, while handling robust API and cloud integration.
-- **QA Automation Scholarship**: Currently studying QA Automation testing as part of a scholarship awarded by Globant, further enhancing my skills in testing frameworks and practices.
+- **Automation chatbots**: Developed automations that handle user and web interaction through a simple chat service, while handling robust API and cloud integration.
+- **QA Automation**: Recently finished the QA Automation scholarship awarded by Globant, further enhancing my skills in testing frameworks and practices for my products.
 
 ---
 
