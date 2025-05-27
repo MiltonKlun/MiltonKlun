@@ -16,9 +16,9 @@ I’m passionate about building automations with real world impact, specially in
 
 Currently working as a freelance developer, creating user-friendly chatbots that deliver practical solutions to real business needs.
 
-- English – Upper-Intermediate to Advanced (B2–C1)
-- Spanish – Native
-- Italian – Elementary (A2)
+![English](https://img.shields.io/badge/English-B2–C1_%7C_Upper--Intermediate_~_Advanced-2196F3?style=for-the-badge&logo=english&logoColor=white)
+![Spanish](https://img.shields.io/badge/Spanish-Native-2196F3?style=for-the-badge&logo=spanish&logoColor=white)
+![Italian](https://img.shields.io/badge/Italian-A2_%7C_Elementary-2196F3?style=for-the-badge&logo=italian&logoColor=white)
 
 ---
 
@@ -45,7 +45,6 @@ Currently working as a freelance developer, creating user-friendly chatbots that
 
 - **Databases**: 
 ![MySQL](https://img.shields.io/badge/MySQL-FF4C4C?style=for-the-badge&logo=mysql&logoColor=white)  <!-- Balanced Red -->
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF4C4C?style=for-the-badge&logo=postgresql&logoColor=white)  <!-- Balanced Red -->
 
 - **Testing Expertise**: 
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-50C878?style=for-the-badge&logo=testing-library&logoColor=white)  <!-- Emerald Green -->
