@@ -8,7 +8,10 @@
 
 ### About Me
 
-My journey in the tech world began with a fascination for building automations that not only perform efficiently but also deliver a compelling user experience. I specialize in backend development, testing automation, and data analysis, with a focus on crafting scalable, maintainable systems. Whether it's through Python, Java, or leveraging modern testing and data frameworks, I’m passionate about optimizing workflows and ensuring top-tier product quality.
+👋 Hi, I’m Milton Klun. Former pharmacist, self-taught Python developer, specialized in QA Automation through a Globant scholarship, and trained in data analysis via Google advanced courses. I’m passionate about building automations with real world impact, specially in the business area. Currently working as a freelance developer, creating user-friendly chatbots that deliver practical solutions to real business needs.
+- English – Upper-Intermediate to Advanced (B2–C1)
+- Spanish - Native
+- Italian – Elementary (A2)
 
 ---
 
