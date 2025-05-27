@@ -29,34 +29,34 @@ Currently working as a freelance developer, creating user-friendly chatbots that
 ![Java](https://img.shields.io/badge/Java-2196F3?style=flat-square&logo=java&logoColor=white)
 
 - **Frameworks & Tools**: 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  <!-- Green -->
-![Playwright](https://img.shields.io/badge/Playwright-43B02A?style=for-the-badge&logo=playwright&logoColor=white)  <!-- Green -->
-![PyTest](https://img.shields.io/badge/PyTest-43B02A?style=for-the-badge&logo=pytest&logoColor=white)  <!-- Green -->
-![JUnit](https://img.shields.io/badge/JUnit-43B02A?style=for-the-badge&logo=junit5&logoColor=white)  <!-- Green -->
-![Docker](https://img.shields.io/badge/Docker-43B02A?style=for-the-badge&logo=docker&logoColor=white)  <!-- Green -->
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-43B02A?style=flat-square&logo=playwright&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-43B02A?style=flat-square&logo=pytest&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-43B02A?style=flat-square&logo=junit5&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-43B02A?style=flat-square&logo=docker&logoColor=white)
 
 - **Cloud Platforms**: 
-![AWS](https://img.shields.io/badge/AWS-F44336?style=for-the-badge&logo=amazon-aws&logoColor=white)  <!-- Red -->
+![AWS](https://img.shields.io/badge/AWS-F44336?style=flat-square&logo=amazon-aws&logoColor=white)
 
 - **Version Control**: 
-![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white)  <!-- Dark color -->
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  <!-- Dark color -->
+![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 - **Databases**: 
-![MySQL](https://img.shields.io/badge/MySQL-FF4C4C?style=for-the-badge&logo=mysql&logoColor=white)  <!-- Balanced Red -->
+![MySQL](https://img.shields.io/badge/MySQL-FF4C4C?style=flat-square&logo=mysql&logoColor=white)
 
 - **Testing Expertise**: 
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-50C878?style=for-the-badge&logo=testing-library&logoColor=white)  <!-- Emerald Green -->
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-50C878?style=for-the-badge&logo=testing-library&logoColor=white)  <!-- Emerald Green -->
-![UI Testing](https://img.shields.io/badge/UI_Testing-50C878?style=for-the-badge&logo=react&logoColor=white)  <!-- Emerald Green -->
-![API Testing](https://img.shields.io/badge/API_Testing-50C878?style=for-the-badge&logo=spring&logoColor=white)  <!-- Emerald Green -->
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-50C878?style=flat-square&logo=testing-library&logoColor=white)
+![Integration Testing](https://img.shields.io/badge/Integration_Testing-50C878?style=flat-square&logo=testing-library&logoColor=white)
+![UI Testing](https://img.shields.io/badge/UI_Testing-50C878?style=flat-square&logo=react&logoColor=white)
+![API Testing](https://img.shields.io/badge/API_Testing-50C878?style=flat-square&logo=spring&logoColor=white)
 
 - **Data Analysis**: 
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  <!-- Pandas Color -->
-![matplotlib](https://img.shields.io/badge/matplotlib-150458?style=for-the-badge&logo=python&logoColor=white)  <!-- Pandas Color -->
-![numpy](https://img.shields.io/badge/numpy-150458?style=for-the-badge&logo=numpy&logoColor=white)  <!-- Pandas Color -->
-![Jupyter](https://img.shields.io/badge/Jupyter-150458?style=for-the-badge&logo=jupyter&logoColor=white)  <!-- Pandas Color -->
-![Tableau](https://img.shields.io/badge/Tableau-150458?style=for-the-badge&logo=tableau&logoColor=white)  <!-- Pandas Color -->
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-150458?style=flat-square&logo=python&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-150458?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-150458?style=flat-square&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-150458?style=flat-square&logo=tableau&logoColor=white)
 
 ---
 
