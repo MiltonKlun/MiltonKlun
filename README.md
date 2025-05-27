@@ -29,11 +29,11 @@ Currently working as a freelance developer, creating user-friendly chatbots that
 ![Java](https://img.shields.io/badge/Java-2196F3?style=flat-square&logo=java&logoColor=white)
 
 - **Frameworks & Tools**: 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-43B02A?style=flat-square&logo=playwright&logoColor=white)
-![PyTest](https://img.shields.io/badge/PyTest-43B02A?style=flat-square&logo=pytest&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-43B02A?style=flat-square&logo=junit5&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-43B02A?style=flat-square&logo=docker&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-43B02A?style=flat-square&logo=playwright&logoColor=black)
+![PyTest](https://img.shields.io/badge/PyTest-43B02A?style=flat-square&logo=pytest&logoColor=black)
+![JUnit](https://img.shields.io/badge/JUnit-43B02A?style=flat-square&logo=junit5&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-43B02A?style=flat-square&logo=docker&logoColor=black)
 
 - **Cloud Platforms**: 
 ![AWS](https://img.shields.io/badge/AWS-F44336?style=flat-square&logo=amazon-aws&logoColor=white)
