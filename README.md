@@ -8,10 +8,14 @@
 
 ### About Me
 
-👋 Hi, I’m Milton Klun. 
+👋 Hi, I’m Milton Klun.
+
 Former pharmacist, self-taught Python developer, specialized in QA Automation through a Globant scholarship, and trained in data analysis via Google advanced courses. 
+
 I’m passionate about building automations with real world impact, specially in the business area. 
+
 Currently working as a freelance developer, creating user-friendly chatbots that deliver practical solutions to real business needs.
+
 - English – Upper-Intermediate to Advanced (B2–C1)
 - Spanish – Native
 - Italian – Elementary (A2)
