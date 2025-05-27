@@ -25,8 +25,8 @@ Currently working as a freelance developer, creating user-friendly chatbots that
 ### Tech Stack
 
 - **Languages**: 
-![Python](https://img.shields.io/badge/Python-2196F3?style=for-the-badge&logo=python&logoColor=white)  <!-- Blue -->
-![Java](https://img.shields.io/badge/Java-2196F3?style=for-the-badge&logo=java&logoColor=white)  <!-- Blue -->
+![Python](https://img.shields.io/badge/Python-2196F3?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2196F3?style=flat-square&logo=java&logoColor=white)
 
 - **Frameworks & Tools**: 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  <!-- Green -->
