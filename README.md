@@ -17,7 +17,9 @@ I’m passionate about building automations with real world impact, specially in
 Currently working as a freelance developer, creating user-friendly chatbots that deliver practical solutions to real business needs.
 
 ![English](https://img.shields.io/badge/English%20(B2–C1)-D32F2F?style=for-the-badge&logo=united-kingdom&logoColor=white) <!-- Red -->
+
 ![Spanish](https://img.shields.io/badge/Spanish%20(Native)-1976D2?style=for-the-badge&logo=spain&logoColor=white) <!-- Blue -->
+
 ![Italian](https://img.shields.io/badge/Italian%20(A2)-388E3C?style=for-the-badge&logo=italy&logoColor=white) <!-- Green -->
 
 ---
@@ -27,7 +29,6 @@ Currently working as a freelance developer, creating user-friendly chatbots that
 - **Languages**: 
 ![Python](https://img.shields.io/badge/Python-2196F3?style=for-the-badge&logo=python&logoColor=white)  <!-- Blue -->
 ![Java](https://img.shields.io/badge/Java-2196F3?style=for-the-badge&logo=java&logoColor=white)  <!-- Blue -->
-![JavaScript](https://img.shields.io/badge/JavaScript-2196F3?style=for-the-badge&logo=javascript&logoColor=white)  <!-- Blue -->
 
 - **Frameworks & Tools**: 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  <!-- Green -->
