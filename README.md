@@ -10,7 +10,7 @@
 
 👋 Hi, I’m Milton Klun.
 
-Former pharmacist, self-taught Python developer, specialized in QA Automation through a Globant scholarship, and trained in data analysis via Google advanced courses. 
+Former pharmacist, specialized as a developer in Python, formed into QA Automation through a Globant scholarship, and trained in data analysis via Google advanced courses. 
 
 I’m passionate about building automations with real world impact, specially in the business area. 
 
