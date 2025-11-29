@@ -1,79 +1,57 @@
-# Milton Klun
-
-![Python Developer](https://img.shields.io/badge/Python%20Developer-F44336?style=flat-square&logo=python&logoColor=white)  <!-- Red -->
-![Data Analyst](https://img.shields.io/badge/Data%20Analyst-4CAF50?style=flat-square&logo=data-analytics&logoColor=white)  <!-- Green -->
-![QA Automation Tester](https://img.shields.io/badge/QA%20Automation%20Tester-2196F3?style=flat-square&logo=robot&logoColor=white)  <!-- Blue -->
+<h1 align="center">Hi, I'm Milton 👋</h1>
+<h3 align="center">QA Automation & Python Developer · Pharmacy background</h3>
 
 ---
 
-### About Me
+### About me
 
-👋 Hi, I’m Milton Klun.
-
-Former pharmacist, specialized as a developer in Python, formed into QA Automation through a Globant scholarship, and trained in data analysis via Google advanced courses. 
-
-I’m passionate about building automations with real world impact, specially in the business area. 
-
-Currently working as a freelance developer, creating user-friendly chatbots that deliver practical solutions to real business needs.
-
-![English](https://img.shields.io/badge/English%20(B2–C1)-D32F2F?style=flat-square&logo=united-kingdom&logoColor=white) <!-- Red --> 
-![Spanish](https://img.shields.io/badge/Spanish%20(Native)-1976D2?style=flat-square&logo=spain&logoColor=white) <!-- Blue --> 
-![Italian](https://img.shields.io/badge/Italian%20(A2)-388E3C?style=flat-square&logo=italy&logoColor=white) <!-- Green --> 
+- 🧪 Pharmacy-trained professional focused on QA Automation and backend development with Python.
+- 🤖 I build real-world automations and chatbots for small businesses (billing, tickets, web automation, bots).
+- 🎓 QA Automation scholarship graduate at Globant · Data analytics training (Google).
+- 💼 Currently working as a freelance developer, delivering automation solutions for real business needs.
+- 🌍 Languages: 🇬🇧 English · 🇪🇸 Spanish · 🇮🇹 Italian
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/milton-klun) · [Email](mailto:your_email_here)
 
 ---
 
-### Tech Stack
+### Tech stack
 
-- **Languages**: 
-![Python](https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-181717?style=flat-square&logo=java&logoColor=white)
+<p align="left">
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 
-- **Frameworks & Tools**: 
-![Selenium](https://img.shields.io/badge/Selenium-181717?style=flat-square&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-181717?style=flat-square&logo=playwright&logoColor=white)
-![PyTest](https://img.shields.io/badge/PyTest-181717?style=flat-square&logo=pytest&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-181717?style=flat-square&logo=junit5&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker&logoColor=white)
+  <!-- Testing & QA -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
+  <img src="https://logo.svgcdn.com/devicon/playwright-original.svg" alt="Playwright" width="40" height="40"/>
 
-- **Cloud Platforms**: 
-![AWS](https://img.shields.io/badge/AWS-181717?style=flat-square&logo=amazon-aws&logoColor=white)
+  <!-- Dev & tooling -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 
-- **Version Control**: 
-![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-- **Databases**: 
-![MySQL](https://img.shields.io/badge/MySQL-181717?style=flat-square&logo=mysql&logoColor=white)
-
-- **Testing Expertise**: 
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-181717?style=flat-square&logo=testing-library&logoColor=white)
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-181717?style=flat-square&logo=testing-library&logoColor=white)
-![UI Testing](https://img.shields.io/badge/UI_Testing-181717?style=flat-square&logo=react&logoColor=white)
-![API Testing](https://img.shields.io/badge/API_Testing-181717?style=flat-square&logo=spring&logoColor=white)
-
-- **Data Analysis**: 
-![pandas](https://img.shields.io/badge/pandas-181717?style=flat-square&logo=pandas&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-181717?style=flat-square&logo=python&logoColor=white)
-![numpy](https://img.shields.io/badge/numpy-181717?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-181717?style=flat-square&logo=jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-181717?style=flat-square&logo=tableau&logoColor=white)
+  <!-- Databases & data -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+</p>
 
 ---
 
-### My Focus
+### Featured projects
 
-- **Backend Development**: Designing, implementing, and optimizing backend logic to power high-performance applications through Python.
-- **Data Analysis**: Extracting insights from data using tools like pandas, matplotlib, and numpy to drive decision-making and optimize processes.
-- **Automation chatbots**: Developed automations that handle user and web interaction through a simple chat service, while handling robust API and cloud integration.
-- **QA Automation**: Recently finished the QA Automation scholarship awarded by Globant, further enhancing my skills in testing frameworks and practices for my products.
+- [**TickSnap**](https://github.com/MiltonKlun/TickSnap) · Telegram bot that generates installment purchase tickets as images using Google Sheets as a lightweight client database.
+- [**Demoblaze Cypress tests**](https://github.com/QAEggSurvivors/demoblaze-cypress) · End-to-end automated tests for the Demoblaze web app, built as part of a QA learning team.
 
 ---
 
-### Get in Touch
+### GitHub stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/milton-klun/)
-[![GitHub](https://img.shields.io/badge/GitHub-MiltonKlun-181717?style=for-the-badge&logo=github)](https://github.com/MiltonKlun)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiltonKlun&show_icons=true&theme=transparent" alt="Milton's GitHub stats"/>
+</p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonKlun&layout=compact&theme=transparent" alt="Top languages"/>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiltonKlun&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonKlun&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
