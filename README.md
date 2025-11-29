@@ -38,13 +38,6 @@
 
 ---
 
-### Featured projects
-
-- [**TickSnap**](https://github.com/MiltonKlun/TickSnap) · Telegram bot that generates installment purchase tickets as images using Google Sheets as a lightweight client database.
-- [**Demoblaze Cypress tests**](https://github.com/QAEggSurvivors/demoblaze-cypress) · End-to-end automated tests for the Demoblaze web app, built as part of a QA learning team.
-
----
-
 ### GitHub stats
 
 <p align="left">
@@ -54,4 +47,5 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonKlun&layout=compact&theme=transparent" alt="Top languages"/>
 </p>
+
 
