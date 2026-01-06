@@ -7,7 +7,7 @@
 
 ### About me
 
-- 🧪 QA Automation Engineer & backend developer with an academic background in Pharmacy.
+- 🧪 QA Automation engineer & Backend developer with an academic background in Pharmacy.
 - 💼 I specialize in testing and automation for healthcare and small businesses, delivering real-world solutions with a quality-first mindset.
 - 🌍 Languages: English (B2–C1) · Spanish (native)
 - 📫 How to reach me:
@@ -75,6 +75,7 @@
     alt="Top languages"
   />
 </p>
+
 
 
 
