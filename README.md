@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="./github-header.png" alt="Milton Eric Klun - Quality Assurance" />
 </p>
@@ -9,6 +8,7 @@
 
 - 🧪 QA Automation engineer & Backend developer with an academic background in Pharmacy.
 - 💼 I specialize in testing and automation for healthcare and small businesses, delivering real-world solutions with a quality-first mindset.
+- 🤖 I actively integrate AI-driven tools into testing workflows to boost agility while maintaining high standards of quality and precision.
 - 🌍 Languages: English (B2–C1) · Spanish (native)
 - 📫 How to reach me:
 
@@ -38,9 +38,12 @@
 <p align="left">
   <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appium/appium-original.svg" alt="Appium" width="40" height="40"/>
   <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="JMeter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/testrail.svg" alt="TestRail" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xray.svg" alt="Xray" width="40" height="40"/>
 </p>
 
 #### Tools & Platforms
@@ -75,8 +78,3 @@
     alt="Top languages"
   />
 </p>
-
-
-
-
-
