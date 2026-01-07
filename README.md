@@ -37,12 +37,12 @@
 <p align="left">
   <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/appiumio/appiumio-icon.svg" alt="Appium" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appium/appium-original.svg" alt="Appium" width="40" height="40"/>
   <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="JMeter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/testrail/53239C" alt="TestRail" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/xray/2684FF" alt="Xray" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/xray-1.svg" alt="Xray" width="40" height="40"/>
 </p>
 
 #### Tools & Platforms
