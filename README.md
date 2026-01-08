@@ -60,22 +60,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
 </p>
 
----
 
-### GitHub stats
-
-<p align="left">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MiltonKlun&theme=dark&background=00000000&hide_border=true" 
-    alt="Milton's GitHub Streak"
-  />
-</p>
-
-<p align="left">
-  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonKlun&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" 
     alt="Top languages"
   />
 </p>
+
 
 
