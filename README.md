@@ -61,10 +61,3 @@
 </p>
 
 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonKlun&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" 
-    alt="Top languages"
-  />
-</p>
-
-
-
