@@ -60,4 +60,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
 </p>
 
+---
 
+<p align="center">
+  <a href="https://programadoresargentina.com/pines" target="_blank">
+    <img src="https://programadoresargentina.com/api/badges/miltonklun" alt="Pines de la Comunidad de Programadores Argentina"/>
+  </a>
+</p>
