@@ -6,8 +6,8 @@
 
 ### About me
 
-- 🧪 QA Automation & Backend Developer leveraging a background in Pharmacy, to apply strict standards of precision and compliance.
-- 💼 I bring a quality-first mindset to software testing, creating automated solutions that ensure reliability in data-driven and regulated environments.
+- 🧪 QA Automation Engineer passionate about crafting resilient digital experiences that blend thorough testing with user-focused quality assurance.
+- 💼 I bring a quality-first mindset to software engineering, creating automated solutions that ensure stability in data-driven and regulated environments.
 
 ---
 
@@ -15,7 +15,7 @@
 
 * **🚀 Cloud & Backend:** Designed serverless chatbots and automated financial reporting systems that reduced manual data entry by centralizing business data across multiple platforms.
 * **⚙️ Test Automation:** Built scalable Playwright-based frameworks using Page Object Model (POM) design and Allure reporting to validate critical e-commerce paths for client websites.
-* **🤖 AI & Data Quality:** Improved LLM code reliability by designing acceptance tests in Dockerized environments. Currently architecting an advanced **AI Testing Framework** that leverages custom-crafted skills, rules, and workflow pipelines.
+* **🤖 AI & Data Quality:** Improved LLM code reliability by designing acceptance tests in Dockerized environments. Currently architecting an advanced **AI Testing Framework** that leverages custom-crafted skills, rules, and workflow pipelines to automate complex validation scenarios.
 
 ---
 
@@ -25,7 +25,6 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
 </p>
 
@@ -84,3 +83,4 @@
     <img src="https://programadoresargentina.com/api/badges/miltonklun" alt="Pines de la Comunidad de Programadores Argentina"/>
   </a>
 </p>
+
