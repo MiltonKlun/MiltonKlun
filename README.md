@@ -6,19 +6,16 @@
 
 ### About me
 
-- 🧪 QA Automation engineer & Backend developer with an academic background in Pharmacy.
-- 💼 I specialize in testing and automation for healthcare and small businesses, delivering real-world solutions with a quality-first mindset.
-- 🌍 Languages: English (B2–C1) · Spanish (native)
-- 📫 How to reach me:
+- 🧪 QA Automation & Backend Developer leveraging a background in Pharmacy, to apply strict standards of precision and compliance.
+- 💼 I bring a quality-first mindset to software testing, creating automated solutions that ensure reliability in data-driven and regulated environments.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/milton-klun" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:miltonericklun@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+---
+
+### Experience
+
+* **🚀 Cloud & Backend:** Designed serverless chatbots and automated financial reporting systems that reduced manual data entry by centralizing business data across multiple platforms.
+* **⚙️ Test Automation:** Built scalable Playwright-based frameworks using Page Object Model (POM) design and Allure reporting to validate critical e-commerce paths for client websites.
+* **🤖 AI & Data Quality:** Improved LLM code reliability by designing acceptance tests in Dockerized environments. Currently architecting an advanced **AI Testing Framework** that leverages custom-crafted skills, rules, and workflow pipelines.
 
 ---
 
@@ -58,6 +55,26 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
+</p>
+
+#### Communication
+
+<p align="left">
+  <img src="https://img.shields.io/badge/English-B2%20%7C%20C1-blue?style=flat-square&logo=google-translate&logoColor=white" alt="English B2-C1"/>
+  <img src="https://img.shields.io/badge/Spanish-Native-red?style=flat-square&logo=google-translate&logoColor=white" alt="Spanish Native"/>
+</p>
+
+---
+
+<h3 align="center">Ready to build reliable software? Let's connect!</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/milton-klun" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:miltonericklun@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
