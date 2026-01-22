@@ -13,7 +13,7 @@
 
 ### Experience
 
-* **🚀 Cloud & Backend:** Designed serverless chatbots and automated financial reporting systems that reduced manual data entry by centralizing business data across multiple platforms.
+* **🚀 Backend:** Designed serverless chatbots and automated financial reporting systems that reduced manual data entry by centralizing business data across multiple platforms.
 * **⚙️ Test Automation:** Built scalable Playwright-based frameworks using Page Object Model (POM) design and Allure reporting to validate critical e-commerce paths for client websites.
 * **🤖 AI & Data Quality:** Improved LLM code reliability by designing acceptance tests in Dockerized environments. Currently architecting an advanced **AI Testing Framework** that leverages custom-crafted skills, rules, and workflow pipelines to automate complex validation scenarios.
 
@@ -90,3 +90,4 @@
     <img src="https://programadoresargentina.com/api/badges/miltonklun" alt="Pines de la Comunidad de Programadores Argentina"/>
   </a>
 </p>
+
