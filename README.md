@@ -28,32 +28,39 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
 </p>
 
-#### QA & Testing
+#### Automation & Frameworks
 
 <p align="left">
   <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" title="Playwright" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" width="40" height="40"/>
+  <img src="./Pytest_logo.png" alt="Pytest" title="Pytest" width="40" height="40"/>
+  <img src="./Cucumber_logo.png" alt="Cucumber" title="Cucumber" width="40" height="40"/>
   <img src="./appium.png" alt="Appium" title="Appium" width="40" height="40"/>
+</p>
+
+#### QA Management & Tools
+
+<p align="left">
   <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="JMeter" title="Apache JMeter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/testrail/53239C" alt="TestRail" title="TestRail" width="40" height="40"/>
   <img src="./xray.png" alt="Xray" title="Xray Test Management" width="40" height="40"/>
 </p>
 
-#### Tools & Platforms
+#### Infrastructure & CI/CD
 
 <p align="left">
+  <img src="./Git_logo.png" alt="Git" title="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/>
+  <img src="./Jenkins_logo.png" alt="Jenkins" title="Jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" title="GitHub Actions" width="40" height="40"/>
 </p>
 
 #### Databases
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
+  <img src="./Mongodb_logo.png" alt="MongoDB" title="MongoDB" width="40" height="40"/>
 </p>
 
 #### Communication
@@ -83,4 +90,3 @@
     <img src="https://programadoresargentina.com/api/badges/miltonklun" alt="Pines de la Comunidad de Programadores Argentina"/>
   </a>
 </p>
-
