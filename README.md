@@ -26,6 +26,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
+  <img src="./SQL_logo.png" alt="SQL" title="SQL" width="40" height="40"/>
 </p>
 
 #### Automation & Frameworks
@@ -43,6 +44,7 @@
 <p align="left">
   <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="JMeter" title="Apache JMeter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="40" height="40"/>
+  <img src="./Jira_logo.png" alt="Jira" title="Jira" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/testrail/53239C" alt="TestRail" title="TestRail" width="40" height="40"/>
   <img src="./xray.png" alt="Xray" title="Xray Test Management" width="40" height="40"/>
 </p>
@@ -50,6 +52,7 @@
 #### Infrastructure & CI/CD
 
 <p align="left">
+  <img src="./AWS_logo.png" alt="AWS" title="AWS" width="40" height="40"/>
   <img src="./Git_logo.png" alt="Git" title="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/>
   <img src="./Jenkins_logo.png" alt="Jenkins" title="Jenkins" width="40" height="40"/>
@@ -90,4 +93,3 @@
     <img src="https://programadoresargentina.com/api/badges/miltonklun" alt="Pines de la Comunidad de Programadores Argentina"/>
   </a>
 </p>
-
