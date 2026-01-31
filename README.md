@@ -75,7 +75,7 @@
 
 ---
 
-<h3 align="center">Ready to build reliable software? Let's connect!</h3>
+<h3 align="center">Let's connect!</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/milton-klun" target="_blank">
@@ -93,4 +93,5 @@
     <img src="https://programadoresargentina.com/api/badges/miltonklun" alt="Pines de la Comunidad de Programadores Argentina"/>
   </a>
 </p>
+
 
