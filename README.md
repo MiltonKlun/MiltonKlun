@@ -6,8 +6,9 @@
 
 ### About me
 
-- 🧪 QA Automation Engineer passionate about crafting resilient digital experiences that blend thorough testing with user-focused quality assurance.
-- 💼 I bring a quality-first mindset to software engineering, creating automated solutions that ensure stability in data-driven and regulated environments.
+- 🧪 QA Automation Engineer & Backend Developer experienced in test automation, CI/CD pipelines, serverless architectures, and API integrations.
+- 💻 Proficient in Python, Java, Playwright, and Selenium, with a focus on building scalable and reliable systems on AWS.
+- 💊 Pharmacy background reinforcing a quality-first mindset: documentation rigor, traceability, and adherence to standards applied to QA workflows.
 
 ---
 
@@ -21,7 +22,7 @@
 
 ### Tech stack
 
-#### Languages
+#### Programming Languages
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
@@ -69,7 +70,7 @@
 #### Communication
 
 <p align="left">
-  <img src="https://img.shields.io/badge/English-B2%20%7C%20C1-blue?style=flat-square&logo=google-translate&logoColor=white" alt="English B2-C1"/>
+  <img src="https://img.shields.io/badge/English-B2-blue?style=flat-square&logo=google-translate&logoColor=white" alt="English B2"/>
   <img src="https://img.shields.io/badge/Spanish-Native-red?style=flat-square&logo=google-translate&logoColor=white" alt="Spanish Native"/>
 </p>
 
@@ -93,5 +94,6 @@
     <img src="https://programadoresargentina.com/api/badges/miltonklun" alt="Pines de la Comunidad de Programadores Argentina"/>
   </a>
 </p>
+
 
 
