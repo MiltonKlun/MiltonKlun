@@ -22,6 +22,13 @@
 
 ### Tech stack
 
+#### Communication
+
+<p align="left">
+  <a href="https://cert.efset.org/en/g93sqo"><img src="https://img.shields.io/badge/English-C1 Advanced-blue?style=flat-square&logo=google-translate&logoColor=white" alt="English C1 Advanced"/>
+  <img src="https://img.shields.io/badge/Spanish-Native-red?style=flat-square&logo=google-translate&logoColor=white" alt="Spanish Native"/>
+</p>
+
 #### Programming Languages
 
 <p align="left">
@@ -65,13 +72,6 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
   <img src="./Mongodb_logo.png" alt="MongoDB" title="MongoDB" width="40" height="40"/>
-</p>
-
-#### Communication
-
-<p align="left">
-  <a href="https://cert.efset.org/en/g93sqo"><img src="https://img.shields.io/badge/English-C1 Advanced-blue?style=flat-square&logo=google-translate&logoColor=white" alt="English C1 Advanced"/>
-  <img src="https://img.shields.io/badge/Spanish-Native-red?style=flat-square&logo=google-translate&logoColor=white" alt="Spanish Native"/>
 </p>
 
 ---
