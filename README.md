@@ -25,7 +25,7 @@
 #### Communication
 
 <p align="left">
-  <a href="https://cert.efset.org/en/g93sqo"><img src="https://img.shields.io/badge/English-B2%20--%20C1-blue?style=flat-square&logo=google-translate&logoColor=white" alt="English B2-C1"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spanish-Native-red?style=flat-square&logo=google-translate&logoColor=white" alt="Spanish Native"/>
+  <a href="https://cert.efset.org/en/g93sqo"><img src="https://img.shields.io/badge/English-C1 Advanced-blue?style=flat-square&logo=google-translate&logoColor=white" alt="English C1 Advanced"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spanish-Native-red?style=flat-square&logo=google-translate&logoColor=white" alt="Spanish Native"/>
 </p>
 
 #### Programming Languages
