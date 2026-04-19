@@ -70,7 +70,7 @@
 #### Communication
 
 <p align="left">
-  <img src="https://img.shields.io/badge/English-B2-blue?style=flat-square&logo=google-translate&logoColor=white" alt="English B2"/>
+  <a href="https://cert.efset.org/en/g93sqo"><img src="https://img.shields.io/badge/English-C1 Advanced-blue?style=flat-square&logo=google-translate&logoColor=white" alt="English C1 Advanced"/>
   <img src="https://img.shields.io/badge/Spanish-Native-red?style=flat-square&logo=google-translate&logoColor=white" alt="Spanish Native"/>
 </p>
 
