@@ -20,6 +20,34 @@
 
 ---
 
+### Certifications
+
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://www.credly.com/earner/earned/badge/6a104ccd-e94a-484c-8b92-c57f76afb951">
+        <img src="https://images.credly.com/size/340x340/images/ef9bf9be-70c1-4aea-922d-d1cc964c1090/blob" alt="Google AI Professional Certificate" title="Google AI Professional Certificate" width="120" height="120"/>
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://www.credly.com/earner/earned/badge/e5eaa0c5-cde1-415b-a9cb-7764992d3a0d">
+        <img src="https://images.credly.com/size/340x340/images/861df0cf-62e2-42d5-9980-3aed808cc462/blob" alt="Google Advanced Data Analytics Professional Certificate" title="Google Advanced Data Analytics Professional Certificate (v2)" width="120" height="120"/>
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://www.credly.com/earner/earned/badge/31f1f75a-2a76-40f5-888a-08aa1fcec27d">
+        <img src="https://images.credly.com/size/340x340/images/4b2e5f74-10de-4587-8168-2cfbd8743b39/blob" alt="Google AI Essentials" title="Google AI Essentials" width="120" height="120"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="left">
+  <a href="https://www.credly.com/users/milton-klun"><img src="https://img.shields.io/badge/Credly-View_All_Credentials-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly Profile"/></a>
+</p>
+
+---
+
 ### Tech stack
 
 #### Communication
