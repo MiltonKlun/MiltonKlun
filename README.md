@@ -2,21 +2,25 @@
   <img src="./github-header.png" alt="Milton Eric Klun - SDET | QA Automation Engineer" />
 </p>
 
-<h1 align="center">Welcome to my GitHub</h1>
+<h1 align="center">AI Quality & LLM Evaluation | SDET | QA Automation Engineer</h1>
 
 ### About me
 
-- 🧪 SDET / QA Automation Engineer experienced in test automation, manual and exploratory testing, CI/CD pipelines, API testing, E2E testing, and AI-assisted testing.
-- 💻 Proficient in Python, JavaScript, Playwright, Selenium, Postman, Docker, GitHub Actions, and Jenkins, with a focus on building reliable automation frameworks and validating software quality across the SDLC.
-- 💊 Pharmacy background reinforcing a quality-first mindset: documentation rigor, traceability, standards, and risk-based thinking applied to QA workflows.
+- I build test automation and evaluation tools for conventional software and LLM applications.
+- My professional experience spans Python automation, API and end-to-end testing, financial and e-commerce workflows, and LLM output evaluation.
+- My public projects explore RAG evaluation, agent reliability, evaluation tooling, and AI-assisted QA with human review.
 
 ---
 
-### Experience
+### Selected projects
 
-* **🚀 Test Engineering & Automation Tooling:** Designed, tested, and validated automated financial reporting and e-commerce workflow systems, reducing manual data entry by ~60% through centralized business data across multiple platforms.
-* **⚙️ Test Framework Architecture:** Built scalable Playwright-based automation frameworks using Page Object Model (POM), Pytest, Postman, and Allure reporting to validate critical e-commerce flows, API integrations, regression suites, and integration-level scenarios.
-* **🤖 AI Quality Engineering & Data Validation:** Improved LLM-generated code reliability by designing acceptance tests in Dockerized environments. Currently developing an **AI-assisted testing framework** that leverages Spec-Driven Development, custom quality rules, reusable skills, and workflow pipelines to validate AI outputs, test automation code, and complex QA scenarios.
+| Project                                                          | Engineering focus                                                                                                                            |
+| ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| [EvalHarness](https://github.com/MiltonKlun/EvalHarness)         | RAG and agent evaluation with DeepEval, a Claude judge, golden datasets, adversarial tests, and separate offline/live CI workflows.          |
+| [Evalstand](https://github.com/MiltonKlun/Evalstand)             | Python evaluation tooling with scorers, nested traces, run history, Pytest integration, and latency/token/cost tracking. In development.     |
+| [Qaizen](https://github.com/MiltonKlun/Qaizen)                   | AI-assisted QA connecting traceable test artifacts, Playwright and API checks, schema validation, and human review.                          |
+| [PG Original POM](https://github.com/MiltonKlun/PG_Original_POM) | Python and Playwright automation with reusable page objects, business assertions, a local test environment, and read-only live smoke checks. |
+| [Pombot](https://github.com/MiltonKlun/Pombot_PG_Original)       | Python business automation with separated handlers and services, API integrations, background workflows, and automated tests.                |
 
 ---
 
