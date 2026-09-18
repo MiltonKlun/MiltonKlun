@@ -2,8 +2,6 @@
   <img src="./github-header.png" alt="Milton Eric Klun - SDET | QA Automation Engineer" />
 </p>
 
-<h1 align="center">AI Quality & LLM Evaluation | SDET | QA Automation Engineer</h1>
-
 ### About me
 
 - I build test automation and evaluation tools for conventional software and LLM applications.
