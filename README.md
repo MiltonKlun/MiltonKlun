@@ -18,7 +18,6 @@
 | [Evalstand](https://github.com/MiltonKlun/Evalstand)             | Python evaluation tooling with scorers, nested traces, run history, Pytest integration, and latency/token/cost tracking. In development.     |
 | [Qaizen](https://github.com/MiltonKlun/Qaizen)                   | AI-assisted QA connecting traceable test artifacts, Playwright and API checks, schema validation, and human review.                          |
 | [PG Original POM](https://github.com/MiltonKlun/PG_Original_POM) | Python and Playwright automation with reusable page objects, business assertions, a local test environment, and read-only live smoke checks. |
-| [Pombot](https://github.com/MiltonKlun/Pombot_PG_Original)       | Python business automation with separated handlers and services, API integrations, background workflows, and automated tests.                |
 
 ---
 
