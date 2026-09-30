@@ -31,13 +31,13 @@
       </a>
     </td>
     <td align="center" style="border: none; padding: 10px;">
-      <a href="https://www.credly.com/badges/e5eaa0c5-cde1-415b-a9cb-7764992d3a0d/public_url">
-        <img src="https://images.credly.com/size/340x340/images/e2e7a640-97e5-4bfa-86d6-616b50ac72af/blob" alt="Google Advanced Data Analytics Professional Certificate" title="Google Advanced Data Analytics Professional Certificate (v2)" width="120" height="120"/>
+      <a href="https://www.credly.com/badges/31f1f75a-2a76-40f5-888a-08aa1fcec27d/public_url">
+        <img src="https://images.credly.com/size/340x340/images/4b2e5f74-10de-4587-8168-2cfbd8743b39/blob" alt="Google AI Essentials" title="Google AI Essentials" width="120" height="120"/>
       </a>
     </td>
     <td align="center" style="border: none; padding: 10px;">
-      <a href="https://www.credly.com/badges/31f1f75a-2a76-40f5-888a-08aa1fcec27d/public_url">
-        <img src="https://images.credly.com/size/340x340/images/4b2e5f74-10de-4587-8168-2cfbd8743b39/blob" alt="Google AI Essentials" title="Google AI Essentials" width="120" height="120"/>
+      <a href="https://www.credly.com/badges/e5eaa0c5-cde1-415b-a9cb-7764992d3a0d/public_url">
+        <img src="https://images.credly.com/size/340x340/images/e2e7a640-97e5-4bfa-86d6-616b50ac72af/blob" alt="Google Advanced Data Analytics Professional Certificate" title="Google Advanced Data Analytics Professional Certificate (v2)" width="120" height="120"/>
       </a>
     </td>
     <td align="center" style="border: none; padding: 10px;">
@@ -49,13 +49,11 @@
 </table>
 
 <p align="left">
-  <a href="https://academy.langchain.com/certificates/6qnykcnpze"><img src="https://img.shields.io/badge/LangChain_Academy-Intro_to_LangChain_%28Python%29-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain Academy - Foundation: Introduction to LangChain - Python" title="LangChain Academy - Foundation: Introduction to LangChain - Python"/></a>&nbsp;&nbsp;<a href="https://academy.langchain.com/certificates/wra7tritbr"><img src="https://img.shields.io/badge/LangChain_Academy-Intro_to_LangGraph_%28Python%29-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain Academy - Foundation: Introduction to LangGraph - Python" title="LangChain Academy - Foundation: Introduction to LangGraph - Python"/></a>
-  <br/>
-  <a href="https://academy.langchain.com/certificates/nwtuqiewlh"><img src="https://img.shields.io/badge/LangChain_Academy-Building_Reliable_Agents-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain Academy - Foundation: Building Reliable Agents" title="LangChain Academy - Foundation: Building Reliable Agents"/></a>&nbsp;&nbsp;<a href="https://academy.langchain.com/certificates/tvh3ugognz"><img src="https://img.shields.io/badge/LangChain_Academy-Agent_Observability_%26_Evaluations-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain Academy - Foundation: Introduction to Agent Observability & Evaluations" title="LangChain Academy - Foundation: Introduction to Agent Observability & Evaluations"/></a>
+  <img src="https://img.shields.io/badge/LangChain_Academy-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain Academy" title="LangChain Academy"/>&nbsp;<a href="https://academy.langchain.com/certificates/6qnykcnpze"><img src="https://img.shields.io/badge/LangChain-3A6B6B?style=flat-square" alt="Foundation: Introduction to LangChain - Python" title="Foundation: Introduction to LangChain - Python"/></a>&nbsp;<a href="https://academy.langchain.com/certificates/wra7tritbr"><img src="https://img.shields.io/badge/LangGraph-3A6B6B?style=flat-square" alt="Foundation: Introduction to LangGraph - Python" title="Foundation: Introduction to LangGraph - Python"/></a>&nbsp;<a href="https://academy.langchain.com/certificates/nwtuqiewlh"><img src="https://img.shields.io/badge/Building_Agents-3A6B6B?style=flat-square" alt="Foundation: Building Reliable Agents" title="Foundation: Building Reliable Agents"/></a>&nbsp;<a href="https://academy.langchain.com/certificates/tvh3ugognz"><img src="https://img.shields.io/badge/Observability_%26_Evaluations-3A6B6B?style=flat-square" alt="Foundation: Introduction to Agent Observability & Evaluations" title="Foundation: Introduction to Agent Observability & Evaluations"/></a>
 </p>
 
 <p align="left">
-  <a href="https://egg-csv-bulk-certificates-prod.s3.amazonaws.com/certificates/66c4ec72b9ef69e807c00439-1748109493219.pdf"><img src="https://img.shields.io/badge/Globant_University-Quality_Control_Automation_%28405h%29-5F3393?style=flat-square" alt="Globant University x Egg - Quality Control Automation (405 hours)" title="Globant University x Egg - Quality Control Automation (405 hours): Git, Java, JUnit, Cypress, web & Android mobile automation, API & performance testing"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Scrum_Inc.-Registered_Scrum_Basics-CC1F2D?style=flat-square" alt="Scrum Inc. - Registered Scrum Basics" title="Scrum Inc. - Registered Scrum Basics (ID#RSB-9326470)"/>&nbsp;&nbsp;<a href="https://cert.efset.org/en/g93sqo"><img src="https://img.shields.io/badge/EF_SET-English_C1_Advanced_%2866%2F100%29-0072CE?style=flat-square" alt="EF SET English Certificate - C1 Advanced (66/100)" title="EF SET English Certificate - C1 Advanced (66/100)"/></a>
+  <a href="https://egg-csv-bulk-certificates-prod.s3.amazonaws.com/certificates/66c4ec72b9ef69e807c00439-1748109493219.pdf"><img src="https://img.shields.io/badge/Globant_University-Quality_Control_Automation-5F3393?style=flat-square" alt="Globant University x Egg - Quality Control Automation" title="Globant University x Egg - Quality Control Automation: Git, Java, JUnit, Cypress, web & Android mobile automation, API & performance testing"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Scrum_Inc.-Registered_Scrum_Basics-CC1F2D?style=flat-square" alt="Scrum Inc. - Registered Scrum Basics" title="Scrum Inc. - Registered Scrum Basics (ID#RSB-9326470)"/>&nbsp;&nbsp;<a href="https://cert.efset.org/en/g93sqo"><img src="https://img.shields.io/badge/EF_SET-English_C1_Advanced-0072CE?style=flat-square" alt="EF SET English Certificate - C1 Advanced" title="EF SET English Certificate - C1 Advanced"/></a>
 </p>
 
 <p align="left">
