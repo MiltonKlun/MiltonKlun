@@ -105,9 +105,6 @@
     <td align="center" width="60" style="border: none; padding: 6px 10px;">
       <img src="./Cucumber_logo.png" alt="Cucumber" title="Cucumber" width="40" height="40"/>
     </td>
-    <td align="center" width="60" style="border: none; padding: 6px 10px;">
-      <img src="./appium.png" alt="Appium" title="Appium" width="40" height="40"/>
-    </td>
   </tr>
 </table>
 
