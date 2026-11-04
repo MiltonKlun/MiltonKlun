@@ -40,9 +40,21 @@
         <img src="https://images.credly.com/size/340x340/images/e2e7a640-97e5-4bfa-86d6-616b50ac72af/blob" alt="Google Advanced Data Analytics Professional Certificate" title="Google Advanced Data Analytics Professional Certificate (v2)" width="120" height="120"/>
       </a>
     </td>
+  </tr>
+  <tr style="border: none;">
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://badges.parchment.com/public/assertions/XE_x46leQ76hve_Ymd8LKg?identity__email=miltonericklun@gmail.com">
         <img src="./Postman_badge.png" alt="Postman API Fundamentals Student Expert" title="Postman API Fundamentals Student Expert" width="120" height="120"/>
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://www.credly.com/badges/f252558a-ab8b-4470-a5de-4843bc69cbdb/public_url">
+        <img src="https://images.credly.com/size/340x340/images/b8c100da-518d-4f72-a097-d3b21d3deb1b/blob" alt="Postman Zero Defects" title="Postman Zero Defects - QA Engineer learning path" width="120" height="120"/>
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://www.credly.com/badges/9bfa161a-8bb1-44c5-aa26-a08239efb920/public_url">
+        <img src="https://images.credly.com/size/340x340/images/4a1d4915-c5c2-4745-93f7-1980a9c72295/blob" alt="Postman Ahead of the Curve" title="Postman Ahead of the Curve - v12 instructor-led workshop" width="120" height="120"/>
       </a>
     </td>
   </tr>
